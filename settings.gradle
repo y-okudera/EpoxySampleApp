@@ -1,0 +1,2 @@
+rootProject.name = "EpoxySampleApp"
+include ':app'
